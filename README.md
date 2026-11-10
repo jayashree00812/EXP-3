@@ -47,7 +47,8 @@ To control the status of the given lamp by using two-way switches.
 
 ### Circuit diagram
 
-*[ Insert the direct connection circuit diagram here ]*
+<img width="812" height="606" alt="Screenshot 2026-10-10 143845" src="https://github.com/user-attachments/assets/513022e8-635e-407d-b221-9a236a08af22" />
+
 
 **Figure 1:** Staircase wiring – direct connection
 
@@ -57,16 +58,17 @@ To control the status of the given lamp by using two-way switches.
 
 | S. No. | Switch S1 position | Switch S2 position | Lamp status (ON / OFF) |
 |:---:|:---:|:---:|:---:|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
+| 1 | p1|p1 |on |
+| 2 | p1|p2 |off |
+| 3 |p2 |p1 |off |
+| 4 |p2 |p2 |on|
 
 ## B. CROSS CONNECTION
 
 ### Circuit diagram
 
-*[ Insert the cross connection circuit diagram here ]*
+<img width="1042" height="395" alt="Screenshot 2026-11-06 195335" src="https://github.com/user-attachments/assets/f51cc8d4-ab5b-4951-8e23-f3dd0b33aa5b" />
+
 
 **Figure 2:** Staircase wiring – cross connection
 
@@ -76,10 +78,10 @@ To control the status of the given lamp by using two-way switches.
 
 | S. No. | Switch S1 position | Switch S2 position | Lamp status (ON / OFF) |
 |:---:|:---:|:---:|:---:|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
+| 1 |p1 |p1 |off |
+| 2 |p1 |p2 |on |
+| 3 |p2 |p1 |on |
+| 4 |p2 |p2 |off |
 
 ## SIMULATION USING PROTEUS
 
