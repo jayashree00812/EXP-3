@@ -47,7 +47,9 @@ To control the status of the given lamp by using two-way switches.
 
 ### Circuit diagram
 
-<img width="812" height="606" alt="Screenshot 2026-10-10 143845" src="https://github.com/user-attachments/assets/513022e8-635e-407d-b221-9a236a08af22" />
+<img width="1041" height="397" alt="Screenshot 2026-11-06 195255" src="https://github.com/user-attachments/assets/3bffaf75-735c-4b97-af5b-c07ec6b92df6" />
+
+
 
 
 **Figure 1:** Staircase wiring – direct connection
